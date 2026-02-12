@@ -20,9 +20,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1652-defuse-the-bomb](https://github.com/info-extractors/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/info-extractors/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Sliding Window
 |  |
 | ------- |
+| [1652-defuse-the-bomb](https://github.com/info-extractors/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/info-extractors/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
