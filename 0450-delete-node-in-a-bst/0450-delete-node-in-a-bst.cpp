@@ -35,18 +35,28 @@ public:
         }else if (root -> val == key){
 
             if (!root -> left && !root -> right) return nullptr;
+
             else if (!root -> left && root -> right){
+
                 TreeNode* temp = root -> right;
                 delete root;
                 return temp;
+
             }else if (root -> left && !root -> right){
+
                  TreeNode* temp = root -> left;
                 delete root;
                 return temp;
+
             }else{
-                TreeNode* inSucc = inorderSuccessor(root -> right);
-                root -> val  = inSucc -> val;
-                root -> right = deleteNode(root -> right,inSucc -> val);
+
+
+                TreeNode* left = root -> left;
+                TreeNode* right = root -> right;
+                TreeNode* inOrd = inorderSuccessor(root -> right);
+
+                inOrd -> left = left;
+                return right;
             }
         }
 
