@@ -27,11 +27,10 @@ public:
         }
         
         if (root -> val < key){
-            cout << root -> val << endl;
+
             root -> right = deleteNode(root -> right,key);
         }
         else if (root -> val > key){
-            cout << root -> val << endl;
             root -> left = deleteNode(root -> left,key);
         }else if (root -> val == key){
 
