@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/info-extractors/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
