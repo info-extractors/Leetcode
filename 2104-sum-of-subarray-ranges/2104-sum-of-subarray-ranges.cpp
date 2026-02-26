@@ -1,104 +1,95 @@
 class Solution {
 public:
 
-    vector<int> nextSmallerEqual(vector<int>& nums){
+    vector<int> nextSmaller(vector<int> &nums){
 
-        vector<int> nextSmallerEq(nums.size(),nums.size());
         stack<int> st;
+        vector<int> ans(nums.size(),nums.size());
 
         for(int i = nums.size() - 1;i >= 0;i--){
 
-            while(!st.empty() && nums[st.top()] >= nums[i]){
-                st.pop();
-            }
+            while(!st.empty() && nums[st.top()] >= nums[i]) st.pop();
 
             if (!st.empty()){
-                nextSmallerEq[i] = st.top();
+                ans[i] = st.top();
             }
 
             st.push(i);
         }
 
-        return nextSmallerEq;
+        return ans;
     }
 
     vector<int> prevSmaller(vector<int> &nums){
 
-        vector<int> prevSmaller_(nums.size(),-1);
         stack<int> st;
+        vector<int> ans(nums.size(),-1);
 
         for(int i = 0;i < nums.size();i++){
 
-            while(!st.empty() && nums[st.top()] > nums[i]){
-                st.pop();
-            }
+            while(!st.empty() && nums[st.top()] > nums[i]) st.pop();
 
             if (!st.empty()){
-                prevSmaller_[i] = st.top();
+                ans[i] = st.top();
             }
 
             st.push(i);
         }
 
-        return prevSmaller_;
+        return ans;
     }
 
-    vector<int> nextGreaterEqual(vector<int> &nums){
-        vector<int> nextGreaterEq(nums.size(),nums.size());
+    vector<int> nextGreater(vector<int> &nums){
         stack<int> st;
+        vector<int> ans(nums.size(),nums.size());
 
         for(int i = nums.size() - 1;i >= 0;i--){
 
-            while(!st.empty() && nums[st.top()] <= nums[i]){
-                st.pop();
-            }
+            while(!st.empty() && nums[st.top()] <= nums[i]) st.pop();
 
             if (!st.empty()){
-                nextGreaterEq[i] = st.top();
+                ans[i] = st.top();
             }
 
             st.push(i);
         }
 
-        return nextGreaterEq;
+        return ans;
     }
 
     vector<int> prevGreater(vector<int> &nums){
-
-        vector<int> prevGreater_(nums.size(),-1);
         stack<int> st;
+        vector<int> ans(nums.size(),-1);
 
         for(int i = 0;i < nums.size();i++){
 
-            while(!st.empty() && nums[st.top()] < nums[i]){
-                st.pop(); 
-            }
+            while(!st.empty() && nums[st.top()] < nums[i]) st.pop();
 
             if (!st.empty()){
-                prevGreater_[i] = st.top();
+                ans[i] = st.top();
             }
 
             st.push(i);
         }
 
-        return prevGreater_;
+        return ans;
     }
 
     long long subArrayRanges(vector<int>& nums) {
         
         long long total = 0;
 
-        vector<int> nextG = nextGreaterEqual(nums);
-        vector<int> prevG = prevGreater(nums);
-        vector<int> nextS = nextSmallerEqual(nums);
-        vector<int> prevS = prevSmaller(nums);
+        vector<int> nextSmallerEq = nextSmaller(nums);
+        vector<int> prevSmaller_ = prevSmaller(nums);
+        vector<int> nextGreaterEq = nextGreater(nums);
+        vector<int> prevGreator = prevGreater(nums);
 
         for(int i = 0;i < nums.size();i++){
 
-            long long max_sum = 1ll * (nextG[i] - i) * (i - prevG[i]);
-            long long min_sum = 1ll * (nextS[i] - i) * (i - prevS[i]);
+            long long max_expansion = 1ll * (nextGreaterEq[i] - i) * (i - prevGreator[i]);
+            long long min_expansion = 1ll * (nextSmallerEq[i] - i) * (i - prevSmaller_[i]);
 
-            total += (max_sum - min_sum) * nums[i];
+            total += ((max_expansion - min_expansion)) * nums[i];
         }
 
         return total;
