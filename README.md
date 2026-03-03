@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/info-extractors/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
@@ -126,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/info-extractors/Leetcode/tree/master/0735-asteroid-collision) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/info-extractors/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/info-extractors/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/info-extractors/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
