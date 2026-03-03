@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/info-extractors/Leetcode/tree/master/0041-first-missing-positive) |
+| [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/info-extractors/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/info-extractors/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/info-extractors/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/info-extractors/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/info-extractors/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/info-extractors/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/info-extractors/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/info-extractors/Leetcode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
