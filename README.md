@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/info-extractors/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/info-extractors/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/info-extractors/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1652-defuse-the-bomb](https://github.com/info-extractors/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2104-sum-of-subarray-ranges](https://github.com/info-extractors/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/info-extractors/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/info-extractors/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -170,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
