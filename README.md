@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/info-extractors/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/info-extractors/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
+| [0238-product-of-array-except-self](https://github.com/info-extractors/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/info-extractors/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/info-extractors/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/info-extractors/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
