@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/info-extractors/Leetcode/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/info-extractors/Leetcode/tree/master/0127-word-ladder) |
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/info-extractors/Leetcode/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/info-extractors/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/info-extractors/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
