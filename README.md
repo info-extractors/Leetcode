@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/info-extractors/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/info-extractors/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/info-extractors/Leetcode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/info-extractors/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/info-extractors/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/info-extractors/Leetcode/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/info-extractors/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
