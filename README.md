@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/info-extractors/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/info-extractors/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/info-extractors/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/info-extractors/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/info-extractors/Leetcode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/info-extractors/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/info-extractors/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/info-extractors/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/info-extractors/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/info-extractors/Leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Math
 |  |
