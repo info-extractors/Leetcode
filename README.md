@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/info-extractors/Leetcode/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/info-extractors/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
