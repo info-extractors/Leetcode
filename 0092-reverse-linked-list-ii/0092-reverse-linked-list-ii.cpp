@@ -24,14 +24,16 @@ public:
         return newHead;
     }
 
+
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         
+
         ListNode* prev = nullptr;
         ListNode* right_node = nullptr;
-
         int pos = 1;
 
         ListNode* curr = head;
+
         while(curr){
 
             if (pos == left - 1){
@@ -46,26 +48,30 @@ public:
             curr = curr -> next;
         }
 
-        ListNode* middlePart = nullptr;
+        ListNode* middleStart = nullptr;
 
-        if (prev){
-            middlePart = prev -> next;
-        }else{
-            middlePart = head;
+        if (prev == nullptr){
+
+            middleStart = head;
+        }
+        else{
+
+            middleStart = prev -> next;
         }
 
         ListNode* rightPart = right_node -> next;
         right_node -> next = nullptr;
 
-        ListNode* reversedHead = reverseList(middlePart);
+        ListNode* newMiddle = reverseList(middleStart);
 
-        if (prev){
-            prev -> next = reversedHead;
-        }else{
-            head = reversedHead;
+        if (prev == nullptr){
+            head = newMiddle;
+        }
+        else{
+            prev -> next = newMiddle;
         }
 
-        middlePart -> next = rightPart;
+        middleStart -> next = rightPart;
 
         return head;
     }
