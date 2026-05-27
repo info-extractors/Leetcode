@@ -29,15 +29,15 @@ public:
         ListNode* prev = nullptr;
         ListNode* right_node = nullptr;
 
-        ListNode* curr = head;
         int pos = 1;
 
+        ListNode* curr = head;
         while(curr){
-            
+
             if (pos == left - 1){
                 prev = curr;
             }
-            
+
             if (pos == right){
                 right_node = curr;
             }
@@ -46,8 +46,8 @@ public:
             curr = curr -> next;
         }
 
-        //Now disconnect the nodes 
         ListNode* middlePart = nullptr;
+
         if (prev){
             middlePart = prev -> next;
         }else{
@@ -60,7 +60,7 @@ public:
         ListNode* reversedHead = reverseList(middlePart);
 
         if (prev){
-            prev -> next = right_node;
+            prev -> next = reversedHead;
         }else{
             head = reversedHead;
         }
