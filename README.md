@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/info-extractors/Leetcode/tree/master/0684-redundant-connection) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/info-extractors/Leetcode/tree/master/0684-redundant-connection) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/info-extractors/Leetcode/tree/master/0684-redundant-connection) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/info-extractors/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/info-extractors/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
