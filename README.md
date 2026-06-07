@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/info-extractors/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/info-extractors/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
