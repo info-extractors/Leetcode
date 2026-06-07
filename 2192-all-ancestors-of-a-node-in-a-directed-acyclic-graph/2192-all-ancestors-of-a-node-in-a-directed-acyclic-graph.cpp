@@ -30,9 +30,10 @@ public:
 
                 temp_ans[neighbor].insert(frontNode);
 
-                for(auto ancestors:temp_ans[frontNode]){
-                    temp_ans[neighbor].insert(ancestors);
-                }
+                temp_ans[neighbor].insert(
+    temp_ans[frontNode].begin(),
+    temp_ans[frontNode].end()
+);
 
                 inDegree[neighbor]--;
                 if (inDegree[neighbor] == 0) q.push(neighbor);
