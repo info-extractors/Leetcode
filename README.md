@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/info-extractors/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/info-extractors/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/info-extractors/Leetcode/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/info-extractors/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/info-extractors/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0137-single-number-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/info-extractors/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
