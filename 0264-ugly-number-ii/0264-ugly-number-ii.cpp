@@ -1,44 +1,30 @@
 class Solution {
 public:
-
-    struct CustomCompare{
-        bool operator()(long long a,long long b){
-            return (a > b);
-        }
-    };
-
     int nthUglyNumber(int n) {
         
+        vector<long long> dp;
 
-        priority_queue<long long,vector<long long>,CustomCompare> pq;
-        unordered_set<long long> uset;
+        dp.push_back(1);
 
-        int index = 1;
-        uset.insert(1);
-        pq.push(1);
+        int prime2 = 0;
+        int prime3 = 0;
+        int prime5 = 0;
 
-        while(index != n){
+        for(int i = 1;i < n;i++){
 
-            long long top = pq.top();pq.pop();
+            long long to_push = min({
+                dp[prime2] * 2,
+                dp[prime3] * 3,
+                dp[prime5] * 5
+            });
 
-            if (!uset.count(top * 2)){
-                pq.push(top * 2);
-                uset.insert(top * 2);
-            }
+            if (to_push == dp[prime2] * 2) prime2++;
+            if (to_push == dp[prime3] * 3) prime3++;
+            if (to_push == dp[prime5] * 5) prime5++;
 
-            if (!uset.count(top * 3)){
-                pq.push(top * 3);
-                uset.insert(top * 3);
-            }
-
-            if (!uset.count(top * 5)){
-                pq.push(top * 5);
-                uset.insert(top * 5);
-            }
-
-            index++;
+            dp.push_back(to_push);
         }
 
-        return pq.top();
+        return dp.back();
     }
 };
