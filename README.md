@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/info-extractors/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/info-extractors/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/info-extractors/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/info-extractors/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/info-extractors/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/info-extractors/Leetcode/tree/master/0912-sort-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/info-extractors/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/info-extractors/Leetcode/tree/master/0912-sort-an-array) |
 | [1387-sort-integers-by-the-power-value](https://github.com/info-extractors/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/info-extractors/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/info-extractors/Leetcode/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/info-extractors/Leetcode/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/info-extractors/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/info-extractors/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/info-extractors/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/info-extractors/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/info-extractors/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
