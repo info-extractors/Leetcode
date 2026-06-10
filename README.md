@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/info-extractors/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/info-extractors/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0313-super-ugly-number](https://github.com/info-extractors/Leetcode/tree/master/0313-super-ugly-number) |
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/info-extractors/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/info-extractors/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/info-extractors/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/info-extractors/Leetcode/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/info-extractors/Leetcode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/info-extractors/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/info-extractors/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/info-extractors/Leetcode/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/info-extractors/Leetcode/tree/master/0509-fibonacci-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/info-extractors/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
