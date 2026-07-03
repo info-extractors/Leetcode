@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/info-extractors/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/info-extractors/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1092-shortest-common-supersequence](https://github.com/info-extractors/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/info-extractors/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/info-extractors/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/info-extractors/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/info-extractors/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/info-extractors/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/info-extractors/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/info-extractors/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/info-extractors/Leetcode/tree/master/0735-asteroid-collision) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/info-extractors/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0646-maximum-length-of-pair-chain](https://github.com/info-extractors/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/info-extractors/Leetcode/tree/master/0912-sort-an-array) |
 | [1387-sort-integers-by-the-power-value](https://github.com/info-extractors/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/info-extractors/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/info-extractors/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/info-extractors/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
