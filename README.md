@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/info-extractors/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1092-shortest-common-supersequence](https://github.com/info-extractors/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/info-extractors/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/info-extractors/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/info-extractors/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/info-extractors/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/info-extractors/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/info-extractors/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/info-extractors/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/info-extractors/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
