@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/info-extractors/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/info-extractors/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/info-extractors/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/info-extractors/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## String
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/info-extractors/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/info-extractors/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/info-extractors/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/info-extractors/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/info-extractors/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/info-extractors/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/info-extractors/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/info-extractors/Leetcode/tree/master/0684-redundant-connection) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/info-extractors/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/info-extractors/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/info-extractors/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/info-extractors/Leetcode/tree/master/0684-redundant-connection) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/info-extractors/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/info-extractors/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
