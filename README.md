@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/info-extractors/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/info-extractors/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/info-extractors/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/info-extractors/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/info-extractors/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/info-extractors/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/info-extractors/Leetcode/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/info-extractors/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
+| [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/info-extractors/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Stack
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/info-extractors/Leetcode/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/info-extractors/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/info-extractors/Leetcode/tree/master/1020-number-of-enclaves) |
+| [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/info-extractors/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Dynamic Programming
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/info-extractors/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/info-extractors/Leetcode/tree/master/0684-redundant-connection) |
+| [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/info-extractors/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/info-extractors/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Matrix
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/info-extractors/Leetcode/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/info-extractors/Leetcode/tree/master/0509-fibonacci-number) |
+| [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/info-extractors/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
@@ -314,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/info-extractors/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
