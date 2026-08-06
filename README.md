@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/info-extractors/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/info-extractors/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/info-extractors/Leetcode/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/info-extractors/Leetcode/tree/master/0509-fibonacci-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/info-extractors/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/info-extractors/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
