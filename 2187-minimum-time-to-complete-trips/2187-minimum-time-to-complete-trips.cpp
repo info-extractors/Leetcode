@@ -20,7 +20,8 @@ public:
     long long minimumTime(vector<int>& time, int totalTrips) {
         
         long long left = 0;
-        long long right = LLONG_MAX;
+        long long minimumHour = *min_element(time.begin(), time.end());
+        long long right = minimumHour * totalTrips;
 
         long long ans = right;
 
