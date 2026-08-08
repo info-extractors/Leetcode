@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/info-extractors/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/info-extractors/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2187-minimum-time-to-complete-trips](https://github.com/info-extractors/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/info-extractors/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/info-extractors/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/info-extractors/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2187-minimum-time-to-complete-trips](https://github.com/info-extractors/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/info-extractors/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sorting
 |  |
