@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/info-extractors/Leetcode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/info-extractors/Leetcode/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/info-extractors/Leetcode/tree/master/0509-fibonacci-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/info-extractors/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -336,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/info-extractors/Leetcode/tree/master/0284-peeking-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/info-extractors/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
