@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/info-extractors/Leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/info-extractors/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/info-extractors/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0284-peeking-iterator](https://github.com/info-extractors/Leetcode/tree/master/0284-peeking-iterator) |
 | [0313-super-ugly-number](https://github.com/info-extractors/Leetcode/tree/master/0313-super-ugly-number) |
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0427-construct-quad-tree](https://github.com/info-extractors/Leetcode/tree/master/0427-construct-quad-tree) |
@@ -327,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/info-extractors/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/info-extractors/Leetcode/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/info-extractors/Leetcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
