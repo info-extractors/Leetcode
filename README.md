@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/info-extractors/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/info-extractors/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/info-extractors/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 | [3713-longest-balanced-substring-i](https://github.com/info-extractors/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/info-extractors/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/info-extractors/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/info-extractors/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/info-extractors/Leetcode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/info-extractors/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/info-extractors/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/info-extractors/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Topological Sort
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0284-peeking-iterator](https://github.com/info-extractors/Leetcode/tree/master/0284-peeking-iterator) |
 | [0895-maximum-frequency-stack](https://github.com/info-extractors/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 | [3408-design-task-manager](https://github.com/info-extractors/Leetcode/tree/master/3408-design-task-manager) |
 ## Iterator
 |  |
@@ -355,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/info-extractors/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [3408-design-task-manager](https://github.com/info-extractors/Leetcode/tree/master/3408-design-task-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
