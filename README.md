@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0284-peeking-iterator](https://github.com/info-extractors/Leetcode/tree/master/0284-peeking-iterator) |
 | [0432-all-oone-data-structure](https://github.com/info-extractors/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0715-range-module](https://github.com/info-extractors/Leetcode/tree/master/0715-range-module) |
 | [0895-maximum-frequency-stack](https://github.com/info-extractors/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 | [3408-design-task-manager](https://github.com/info-extractors/Leetcode/tree/master/3408-design-task-manager) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/info-extractors/Leetcode/tree/master/0715-range-module) |
 | [0895-maximum-frequency-stack](https://github.com/info-extractors/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [3408-design-task-manager](https://github.com/info-extractors/Leetcode/tree/master/3408-design-task-manager) |
 ## Doubly-Linked List
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/info-extractors/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
+## Segment Tree
+|  |
+| ------- |
+| [0715-range-module](https://github.com/info-extractors/Leetcode/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
