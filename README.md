@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/info-extractors/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/info-extractors/Leetcode/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/info-extractors/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0432-all-oone-data-structure](https://github.com/info-extractors/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/info-extractors/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/info-extractors/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/info-extractors/Leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/info-extractors/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/info-extractors/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0432-all-oone-data-structure](https://github.com/info-extractors/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Topological Sort
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/info-extractors/Leetcode/tree/master/0284-peeking-iterator) |
+| [0432-all-oone-data-structure](https://github.com/info-extractors/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0895-maximum-frequency-stack](https://github.com/info-extractors/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 | [3408-design-task-manager](https://github.com/info-extractors/Leetcode/tree/master/3408-design-task-manager) |
@@ -363,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/info-extractors/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [2296-design-a-text-editor](https://github.com/info-extractors/Leetcode/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
